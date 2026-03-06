@@ -93,7 +93,6 @@ These engineered features, especially Price_per_BHK and Price_per_SqFt, turned o
 The following diagnostic plots are automatically generated and saved to the artifacts folder after training:
 
 - Confusion matrix with raw counts and row-normalised percentages
-- Per-class precision, recall, and F1 score
 - Model comparison across all four metrics
 - Feature importance with cumulative importance curve
 - Learning curves showing training vs validation accuracy
