@@ -1,6 +1,6 @@
 # Indian House Price Classification
 
-A machine learning project that predicts whether an Indian residential property falls in a Low, Medium, or High price category based on features like location, size, amenities, and market indicators. Built with a full MLOps pipeline and deployed as an interactive Streamlit web app.
+A machine learning project that predicts whether an Indian residential property falls in a Low, Medium, or High price category based on features like location, size, amenities, and market indicators.
 
 ---
 
